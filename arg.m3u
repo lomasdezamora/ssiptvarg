@@ -110,7 +110,7 @@ http://190.104.67.111:234/play/a06z/index.m3u8
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
-http://45.5.150.5:8887/play/a0ai/index.m3u8
+http://200.80.230.123:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
 http://190.104.67.230:234/play/a08k/index.m3u8
@@ -279,6 +279,9 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
 https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
@@ -675,7 +678,7 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL", TV Perú Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+http://45.232.176.29:8000/play/a05i
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", ABC PARAGUAY
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/GQagSggs/live.isml/.mpd
@@ -4015,5 +4018,4 @@ https://encoder-1b.montevision.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO 2
 https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
-
 
