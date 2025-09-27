@@ -745,7 +745,7 @@ http://181.13.252.102:8000/play/a06r/index.m3u8
 http://201.217.246.177:8000/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Xtreme
-http://201.217.246.177:8000/play/a02b/index.m3u8
+http://138.121.114.86:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO-UNIVERSAL", HBO Mundi
 http://201.217.246.177:8000/play/a02a/index.m3u8
