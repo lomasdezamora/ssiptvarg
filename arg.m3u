@@ -811,6 +811,9 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="68b5f68ecce9c4384b9c1dc4" tvg-name="68b5f68ecce9c4384b9c1dc4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c" group-title="DEPORTIVOS", Unbeaten (Worldwide)
 https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/ESBC1700002IM_20220511T011722.png" group-title="CURIOSIDAD", Televisión Consciente
+https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
+
 #EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="INFANTIL", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 
@@ -2788,8 +2791,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/p
 
 
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/ESBC1700002IM_20220511T011722.png" group-title="CURIOSIDAD", Televisión Consciente
-https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1400001L8_20221109T010708.png" group-title="NOTICIAS INTERNACIONAL", El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
