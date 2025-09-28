@@ -244,7 +244,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="NOTICIAS NACIONALES", IP NOTICIAS
 http://181.78.27.128:12543/play/a055/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26
 http://45.5.151.62:8000/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
@@ -279,9 +279,6 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
-https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
 https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
@@ -1444,6 +1441,8 @@ https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
 https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CORDOBA", CADENA 3
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://radiosargentina.com.ar/png/VICANALU.png" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/chunklist_w1872889393.m3u8
