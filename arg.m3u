@@ -995,7 +995,7 @@ https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/chunklist_w162601086.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="RADIO-AMBA", RADIO KOA RAFAEL CASTILLO
+#EXTINF:-1 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="RADIO-AMBA", RADIO KOA RAFAEL CASTILLO 
 https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINUEHOR.png" group-title="RADIO-AMBA", Nuevos Horizontes  107.5 FM Villa de Mayo
