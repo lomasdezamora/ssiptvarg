@@ -1137,9 +1137,6 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/NTVD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png" group-title="PCIA BS AS", CLYFER TV
 https://smt-usr-edge01.sensa.com.ar/output/ARR/CLYFERD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="PCIA BS AS", CETV Canal Deheza
-https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
-
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/800/542/0/0/39411063077630.png" group-title="PCIA BS AS", RTV Canal 2 Golcable
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/GolcableD/output.mpd
 
@@ -1556,6 +1553,14 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="RADIO-CORDOBA", RADIO COOP ONLINE
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="CORDOBA", CETV Canal Deheza
+https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png group-title="CORDOBA"",Río Primero TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
