@@ -263,7 +263,7 @@ http://181.209.125.237:9000/play/a039/index.m3u8
 http://190.104.67.230:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
-http://45.5.150.5:8887/play/a0t6/index.m3u8
+http://181.78.27.128:12543/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
 http://190.104.67.230:234/play/a06k/index.m3u8
