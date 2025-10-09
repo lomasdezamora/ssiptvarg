@@ -3114,3 +3114,630 @@ http://104.243.38.5:8989/168620_.m3u8
 
 
 
+#EXTM3U         
+  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://181.13.252.102:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://200.219.40.1:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://190.104.67.230:234/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
+http://190.104.67.230:234/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
+http://201.217.246.177:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
+http://201.217.246.177:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Tango Sports", ESPN 4
+http://201.217.246.177:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Tango Sports", FOX Sports
+http://201.217.246.177:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Tango Sports", FOX Sports 2
+http://201.217.246.177:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Tango Sports", FOX Sports 3 
+http://201.217.246.177:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="Tango Sports", DEPORTV 
+http://201.217.246.177:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Tango Sports", CLARO SPORTS 
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://172.93.102.112:8989/279390_.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://138.99.179.229:8000/play/a0se/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://38.252.213.12:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://200.60.41.205:8000/play/a09a
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
+http://190.104.67.230:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
+http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
+http://190.104.67.135:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
+http://190.104.67.135:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
+http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
+http://190.104.67.112:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
+http://190.104.67.112:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
+http://186.148.196.82:8001/play/a04r 
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 14
+http://190.104.67.111:234/play/a06z/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV 
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
+http://200.80.230.123:8000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
+http://190.104.67.230:234/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
+http://201.217.246.177:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B3H8vfrbLNJxxqvuUQlNEKkNjKDe7ezODA&s" group-title="NACIONALES", BRAVO TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
+http://200.219.40.1:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
+http://190.104.67.135:234/play/a07c/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
+https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="NACIONALES", AUNAR
+http://200.106.13.204:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="NACIONALES", TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
+http://138.121.114.86:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="NACIONALES", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
+http://201.217.246.177:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="NACIONALES", DEPORTV
+http://201.217.246.177:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
+http://201.217.246.177:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="NACIONALES", AM Sports
+http://201.217.246.177:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/100px-Canal_Orbe_21_logo.svg.pngg" group-title="NACIONALES", ORBE 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NACIONALES", UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8  
+
+#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="NACIONALES", SOLIDARIA TV 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="NACIONALES", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="NACIONALES", TERRAMIA TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="NACIONALES", EL FOLKLORICO
+https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="NACIONALES", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
+http://190.104.67.135:234/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NACIONALES", ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
+http://201.217.246.177:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
+http://201.217.246.177:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s" group-title="NACIONALES" , AMC
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
+http://201.217.246.177:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="NACIONALES", El Gourmet
+http://201.217.246.177:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
+http://200.106.13.204:8000/play/a0ek/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="NACIONALES", LATINA RADIO FM 101.1
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vorterix.com/images/logo_vorterix-horizontal.svg" group-title="NACIONALES", VORTERIX
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="NOTICIAS NACIONALES", IP NOTICIAS
+http://181.78.27.128:12543/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26
+http://45.5.151.62:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
+http://201.217.246.177:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="NOTICIAS NACIONALES", A24
+http://190.104.67.230:234/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
+http://190.104.67.230:234/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
+http://181.209.125.237:9000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
+http://190.104.67.230:234/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
+http://181.78.27.128:12543/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/960px-Logo_Diputados_TV.png" group-title="NOTICIAS NACIONALES", Diputados TV 
+http://200.106.13.204:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
+http://190.104.67.230:234/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="NOTICIAS NACIONALES", CHACRA TV
+https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="NOTICIAS NACIONALES", MITRE
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
+https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="LATINO",01.5AmericaTV  
+http://200.60.124.19:29000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="LATINO",01.6Latina
+http://200.60.124.19:29000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="LATINO",02.1ATV
+http://200.60.124.19:29000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="LATINO",02.2Panamericana TV
+http://200.60.124.19:29000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.1 Discovery Channel HD
+http://200.60.124.19:29000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.3Lifetime
+http://200.60.124.19:29000/play/a021/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.4Animal Planet
+http://200.60.124.19:29000/play/a012/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.4Discovery Turbo
+http://200.60.124.19:29000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.6Cinemax
+http://200.60.124.19:29000/play/a025/index.m3u8
+#EXTINF:-1 group-title="LATINO",03.7FX
+http://200.60.124.19:29000/play/a029/index.m3u8
+#EXTINF:-1 group-title="LATINO",04.5Disney Channel
+http://200.60.124.19:29000/play/a010/index.m3u8
+#EXTINF:-1 group-title="LATINO",04.6BabyFirst
+http://200.60.124.19:29000/play/a020/index.m3u8
+#EXTINF:-1 group-title="LATINO",04.7Nickelodeon
+http://200.60.124.19:29000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="LATINO",04.8Nick Jr
+http://200.60.124.19:29000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="LATINO",05.1Space
+http://200.60.124.19:29000/play/a028/index.m3u8
+#EXTINF:-1 group-title="LATINO",05.2Sony
+http://200.60.124.19:29000/play/a026/index.m3u8
+#EXTINF:-1 group-title="LATINO",05.3 Nat Geo HD
+http://200.60.124.19:29000/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="LATINO",06.3AE Mundo
+http://200.60.124.19:29000/play/a019/index.m3u8
+#EXTINF:-1 group-title="LATINO",06.4E Entertainment
+http://200.60.124.19:29000/play/a014/index.m3u8
+#EXTINF:-1 group-title="LATINO",06.5TLC
+http://200.60.124.19:29000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="LATINO",06.6ViaX
+http://200.60.124.19:29000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.1Warner
+http://200.60.124.19:29000/play/a013/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.3STAR CHANNEL SD
+http://200.60.124.19:29000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.4SyFy
+http://200.60.124.19:29000/play/a022/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.5TCM
+http://200.60.124.19:29000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.7Universal
+http://200.60.124.19:29000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="LATINO",07.8AXN
+http://200.60.124.19:29000/play/a027/index.m3u8
+#EXTINF:-1 group-title="LATINO",09.1ESPN 1
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="LATINO",10.2 WILLAX
+http://200.60.124.19:29000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="LATINO",11.1ESPN 2 Latin
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1 group-title="LATINO",11.2ESPN 3
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="LATINO",11.3ESPN 4
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="LATINO",12.2Canal Claro
+http://200.60.124.19:29000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="LATINO",13 C
+http://200.60.124.19:29000/play/a0id/index.m3u8
+#EXTINF:-1 group-title="LATINO",13.1 Discovery ID
+http://200.60.124.19:29000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="LATINO",13.4 HomeandHealth
+http://200.60.124.19:29000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="LATINO",14.3Telemundo
+http://200.60.124.19:29000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="LATINO",14.4RCN Novelas
+http://200.60.124.19:29000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="LATINO",14.5 TNT Novelas
+http://200.60.124.19:29000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="LATINO",15.1 ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="LATINO",15.2ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="LATINO",16.3Enlace
+http://200.60.124.19:29000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="LATINO",7.6 TNT
+http://200.60.124.19:29000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="LATINO",A&E
+http://200.60.124.19:29000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="LATINO",A&E HD
+http://200.60.124.19:29000/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="LATINO",AM Sports
+http://200.60.124.19:29000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="LATINO",AMC
+http://200.60.124.19:29000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="LATINO",AXN
+http://200.60.124.19:29000/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="LATINO",AXN
+http://200.60.124.19:29000/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="LATINO",AXN HD
+http://200.60.124.19:29000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="LATINO",AXN HD
+http://200.60.124.19:29000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="LATINO",Adult Swim
+http://200.60.124.19:29000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="LATINO",Adult swim HD
+http://200.60.124.19:29000/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="LATINO",America TV HD
+http://200.60.124.19:29000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="LATINO",America TV PY
+http://200.60.124.19:29000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="LATINO",Animal Planet
+http://200.60.124.19:29000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="LATINO",Animal Planet HD
+http://200.60.124.19:29000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="LATINO",BETHEL TV
+http://200.60.124.19:29000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="LATINO",Baby TV
+http://200.60.124.19:29000/play/a0ho/index.m3u8
+#EXTINF:-1 group-title="LATINO",CNN Chile
+http://200.60.124.19:29000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="LATINO",CNN Espaæol
+http://200.60.124.19:29000/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="LATINO",CNN International
+http://200.60.124.19:29000/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="LATINO",CNN en Espaæol
+http://200.60.124.19:29000/play/a0lx/index.m3u8
+#EXTINF:-1 group-title="LATINO",Canal Estrellas
+http://200.60.124.19:29000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="LATINO",Canal de la Ciudad
+http://200.60.124.19:29000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cartoon Network
+http://200.60.124.19:29000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cartoon Network HD
+http://200.60.124.19:29000/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cartoonito
+http://200.60.124.19:29000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cine.AR
+http://200.60.124.19:29000/play/a0k5/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinecanal
+http://200.60.124.19:29000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinecanal HD
+http://200.60.124.19:29000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinecanal HD
+http://200.60.124.19:29000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinemax
+http://200.60.124.19:29000/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinemax
+http://200.60.124.19:29000/play/a0lk/index.m3u8
+#EXTINF:-1 group-title="LATINO",Cinemax HD
+http://200.60.124.19:29000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="LATINO",Claro Cinema
+http://200.60.124.19:29000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="LATINO",Comedy Central
+http://200.60.124.19:29000/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="LATINO",Comedy Central HD
+http://200.60.124.19:29000/play/a0ky/index.m3u8
+#EXTINF:-1 group-title="LATINO",DHE HD
+http://200.60.124.19:29000/play/a0fx/index.m3u8
+#EXTINF:-1 group-title="LATINO",DeporTV
+http://200.60.124.19:29000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="LATINO",DirecTv Sport HD
+http://200.60.124.19:29000/play/a081/index.m3u8
+#EXTINF:-1 group-title="LATINO",Discovery H&H HD
+http://200.60.124.19:29000/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="LATINO",Discovery Kids HD
+http://200.60.124.19:29000/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="LATINO",Discovery Science
+http://200.60.124.19:29000/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="LATINO",Discovery Science
+http://200.60.124.19:29000/play/a0kl/index.m3u8
+#EXTINF:-1 group-title="LATINO",Disney Junior
+http://200.60.124.19:29000/play/a0hu/index.m3u8
+#EXTINF:-1 group-title="LATINO",E! Entertainment
+http://200.60.124.19:29000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="LATINO",E! Entertainment TV
+http://200.60.124.19:29000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="LATINO",ESPN 2 HD
+http://200.60.124.19:29000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="LATINO",ESPN 3 HD
+http://200.60.124.19:29000/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="LATINO",ESPN 4 HD
+http://200.60.124.19:29000/play/a0j8/index.m3u8
+#EXTINF:-1 group-title="LATINO",EWTN
+http://200.60.124.19:29000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="LATINO",El Gourmet
+http://200.60.124.19:29000/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="LATINO",El Gourmet
+http://200.60.124.19:29000/play/a0ix/index.m3u8
+#EXTINF:-1 group-title="LATINO",Enlace
+http://200.60.124.19:29000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="LATINO",Film & Arts HD
+http://200.60.124.19:29000/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="LATINO",Fox Sports 2 HD
+http://200.60.124.19:29000/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="LATINO",Fox Sports 3 HD
+http://200.60.124.19:29000/play/a0ku/index.m3u8
+#EXTINF:-1 group-title="LATINO",Fox Sports HD
+http://200.60.124.19:29000/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="LATINO",France 24
+http://200.60.124.19:29000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="LATINO",GOLPERU
+http://200.60.124.19:29000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO 2
+http://200.60.124.19:29000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO Family
+http://200.60.124.19:29000/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO Mundi
+http://200.60.124.19:29000/play/a0kb/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO Plus
+http://200.60.124.19:29000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO Signature
+http://200.60.124.19:29000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="LATINO",HBO XTREME
+http://200.60.124.19:29000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="LATINO",HGTV
+http://200.60.124.19:29000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="LATINO",History 2
+http://200.60.124.19:29000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="LATINO",History Channel
+http://200.60.124.19:29000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="LATINO",ID HD
+http://200.60.124.19:29000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="LATINO",Kidoo HD
+http://200.60.124.19:29000/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="LATINO",L1MAX HD
+http://200.60.124.19:29000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="LATINO",La Nacion TV
+http://200.60.124.19:29000/play/a0ju/index.m3u8
+#EXTINF:-1 group-title="LATINO",Las Estrellas
+http://200.60.124.19:29000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="LATINO",Latina HD
+http://200.60.124.19:29000/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="LATINO",Lifetime
+http://200.60.124.19:29000/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="LATINO",MTV
+http://200.60.124.19:29000/play/a0f9/index.m3u8
+#EXTINF:-1 group-title="LATINO",MTV 00s
+http://200.60.124.19:29000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="LATINO",MTV LIVE HD
+http://200.60.124.19:29000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="LATINO",National Geographic
+http://200.60.124.19:29000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="LATINO",Nick Jr
+http://200.60.124.19:29000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="LATINO",Pakapaka
+http://200.60.124.19:29000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="LATINO",Paramount HD
+http://200.60.124.19:29000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="LATINO",Pasiones
+http://200.60.124.19:29000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="LATINO",Quiero Musica
+http://200.60.124.19:29000/play/a0ko/index.m3u8
+#EXTINF:-1 group-title="LATINO",RT en Espaæol
+http://200.60.124.19:29000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="LATINO",Rural
+http://200.60.124.19:29000/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="LATINO",STAR CHANNEL HD
+http://200.60.124.19:29000/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="LATINO",Saeta Canal 10
+http://200.60.124.19:29000/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="LATINO",Sin Limites
+http://200.60.124.19:29000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="LATINO",Sony HD
+http://200.60.124.19:29000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="LATINO",Sony Movies
+http://200.60.124.19:29000/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="LATINO",Sony Movies HD
+http://200.60.124.19:29000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="LATINO",Space HD
+http://200.60.124.19:29000/play/a0kx/index.m3u8
+#EXTINF:-1 group-title="LATINO",Space HD
+http://200.60.124.19:29000/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="LATINO",Studio Universal
+http://200.60.124.19:29000/play/a0k3/index.m3u8
+#EXTINF:-1 group-title="LATINO",TCM
+http://200.60.124.19:29000/play/a0k1/index.m3u8
+#EXTINF:-1 group-title="LATINO",TLC
+http://200.60.124.19:29000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="LATINO",TNT HD
+http://200.60.124.19:29000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="LATINO",TNT Series HD
+http://200.60.124.19:29000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="LATINO",TNT Sports HD
+http://200.60.124.19:29000/play/a0kv/index.m3u8
+#EXTINF:-1 group-title="LATINO",TVE
+http://200.60.124.19:29000/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="LATINO",TVE SD
+http://200.60.124.19:29000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="LATINO",Telefe HD
+http://200.60.124.19:29000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="LATINO",TelefØ
+http://200.60.124.19:29000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="LATINO",Telemundo
+http://200.60.124.19:29000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="LATINO",Televicentro
+http://200.60.124.19:29000/play/a0hj/index.m3u8
+#EXTINF:-1 group-title="LATINO",Tooncast
+http://200.60.124.19:29000/play/a0i3/index.m3u8
+#EXTINF:-1 group-title="LATINO",TyC
+http://200.60.124.19:29000/play/a017/index.m3u8
+#EXTINF:-1 group-title="LATINO",TyC Sports HD
+http://200.60.124.19:29000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="LATINO",UNIVERSAL CHANNEL HD
+http://200.60.124.19:29000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="LATINO",USA SD
+http://200.60.124.19:29000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="LATINO",Universal HD
+http://200.60.124.19:29000/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="LATINO",Universo
+http://200.60.124.19:29000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="LATINO",VTV HD
+http://200.60.124.19:29000/play/a0j7/index.m3u8
+#EXTINF:-1 group-title="LATINO",Warner Channel HD
+http://200.60.124.19:29000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="LATINO",Z.cositel
+http://200.60.124.19:29000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="LATINO",Zona Latina
+http://200.60.124.19:29000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="LATINO",ciudad magazine
+http://200.60.124.19:29000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="LATINO",el nueve HD
+http://200.60.124.19:29000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="LATINO",el trece HD
+http://200.60.124.19:29000/play/a0jc/index.m3u8
+
+
+
+
