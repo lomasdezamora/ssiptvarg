@@ -1971,7 +1971,7 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png group-title="CORDOBA", Río Primero TV
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png" group-title="CORDOBA", Río Primero TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
