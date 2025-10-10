@@ -742,6 +742,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 
 
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
+http://200.80.230.123:8000/play/a01s/index.m3u8
 
 
 
@@ -873,8 +875,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 
 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
-http://200.80.230.123:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="TELECENTRO", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
