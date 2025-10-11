@@ -2012,7 +2012,7 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT3/RTD/output.mpd
 https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png" group-title="CORDOBA", Cegro General Roca
-https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd 
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="CORDOBA", Canal 11 Oliva
 https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
