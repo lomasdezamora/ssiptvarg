@@ -1,7 +1,10 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index_13.m3u8
+https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+https://ch01-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
 http://181.13.252.102:8000/play/a02s/index.m3u8
