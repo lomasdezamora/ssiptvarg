@@ -759,6 +759,9 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ,GB News UK 
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ,ABC News USA 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
 
 
