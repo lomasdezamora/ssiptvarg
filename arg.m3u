@@ -1643,6 +1643,9 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_W7HXpQEYWXITAV7pYntsHnia-0AYn_qiIAQp48_i3w=s900-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", ECO TV TANDIL
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="PCIA BS AS", EL DIARIO DE PRINGLES
+https://encoder-1a.reltid.com.ar/live/directo.m3u8
+
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/08/38-estercita-420x315.jpg" group-title="PCIA BS AS", Estercita TV
 https://stmv7.voxtvhd.com.br/estercitatv/estercitatv/playlist.m3u8
 
@@ -1661,7 +1664,8 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://canuelasnoticias.com/wp-content/uploads/2024/05/canuelas-noticias.gif" group-title="PCIA BS AS", CANUELAS NOTICIAS
+https://live20.bozztv.com/akamaissh101/ssh101/streamcnoticias/playlist.m3u8
 
 
 
@@ -1693,9 +1697,6 @@ https://videostream.shockmedia.com.ar:19360/lu24am/lu24am.m3u8
 
 #EXTINF:-1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIO-PCIA BS AS", URBAN 98.5 FM PEHUAJO
 https://live.tvip.ar:3679/live/urban985live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO-PCIA BS AS", EL DIARIO DE PRINGLES
-https://encoder-1a.reltid.com.ar/live/directo.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1487291907147321344/ElAO4FJX_400x400.jpg" group-title="RADIO-PCIA BS AS", LA MEGA 90.9 AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
@@ -1730,20 +1731,14 @@ http://190.1.0.5:8072/;stream.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cL6AoX9bvFCeTmK71g0wO52nwdlb7W4_pAxR5DfcenqMzwwLkRZxie-9YgFJa35QI_k=w526-h296-rw" group-title="RADIO-PCIA BS AS", Línea Directa Radio
 https://stmv6.voxtvhd.com.br/lineadirectaweb/lineadirectaweb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://medpinamar.com.ar/med_contenido/uploads/2018/11/logomed-2-300x230.png" group-title="RADIO-PCIA BS AS", PINAMAR MED 95.9 FM
-https://stmvideo6.livecastv.com/medpinamar/medpinamar/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://fmdelsur103.com.ar/wp-content/uploads/2021/02/cropped-WhatsApp-Image-2020-08-20-at-5.07.30-PM.jpeg" group-title="RADIO-PCIA BS AS", FM DEL SUR 103.7 VERONICA
 https://inliveserver.com:1936/8562/8562/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canuelasnoticias.com/wp-content/uploads/2024/05/canuelas-noticias.gif" group-title="RADIO-PCIA BS AS", CANUELAS NOTICIAS
-https://live20.bozztv.com/akamaissh101/ssh101/streamcnoticias/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---DSR.png" group-title="RADIO-PCIA BS AS", DSR MEDIOS
-https://panel.host-live.com:19360/8114/8114.m3u8
+#EXTINF:-1 tvg-logo="https://fmlatribuna.com/2020/wp-content/uploads/2020/05/logolatribuna.jpg" group-title="RADIO-PCIA BS AS", La Tribuna 103.5 FM Mercedes
+https://stmv5.livecastv.com/latribuna/latribuna/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/radiofiestaolavarria.png" group-title="RADIO-PCIA BS AS", Fiesta 105.1 FM Olavarria
-https://inliveserver.com:1936/17050/17050/
+https://inliveserver.com:1936/17050/17050/chunklist_w411907203.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRV313.png" group-title="RADIO-PCIA BS AS", Zona 89.3 FM Miramar
 https://nd106.republicaservers.com:4433/hls/c6618/index.m3u8
@@ -1754,14 +1749,11 @@ https://inliveserver.com:1936/12052/12052/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmestacion21.com.ar/img/logo_1729645207.png" group-title="RADIO-PCIA BS AS", Estacion 21 107.1 FM Mercedes
 https://inliveserver.com:1936/9024/9024/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmlatribuna.com/2020/wp-content/uploads/2020/05/logolatribuna.jpg" group-title="RADIO-PCIA BS AS", La Tribuna 103.5 FM Mercedes
-https://stmv5.livecastv.com/latribuna/latribuna/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---DSR.png" group-title="RADIO-PCIA BS AS", DSR MEDIOS
+https://panel.host-live.com:19360/8114/8114.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="RADIO-PCIA BS AS", Maximo Paz 98.9 FM
+https://vivo.solumedia.com:19360/maximopaz/maximopaz.m3u8
 
 
 
