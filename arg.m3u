@@ -830,6 +830,9 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 #EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="SERIES" , CSI: Miami
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="INFANTIL", MONI TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
