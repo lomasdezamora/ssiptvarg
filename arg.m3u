@@ -1477,9 +1477,6 @@ https://inliveserver.com:1936/9000/9000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TT.png" group-title="RADIO-AMBA", Trend Topic
 https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
-https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/420601/31ed9c5a3770704a59b3e63f9574952d.png" group-title="RADIO-AMBA", RADIO PLUS 88.1 FM San Miguel
 https://stmv6.voxtvhd.com.br/radioplus881aut/radioplus881aut/playlist.m3u8
 
@@ -1503,12 +1500,6 @@ https://nd106.republicaservers.com/hls/c7546/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
 https://videohd.live:19360/8124/8124.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png" group-title="RADIO-AMBA", SONIDO SUR
-https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="RADIO-AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
-https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTsiDJp0h8G6NfEKGVGlL0Y6Al9lbSRzZmQ&s" group-title="RADIO-AMBA", RADIO AMEP
 https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
