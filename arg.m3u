@@ -762,6 +762,13 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ,ABC News USA 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ,ABC News Australia 
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ,Newsmax TV USA 
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+
 
 
 
@@ -4642,9 +4649,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u
 
 #EXTINF:-1 tvg-id="66c45c0de7f5e80008b82005" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="602", CNN Headlines
 https://stitcher.pluto.tv/stitch/hls/channel/66c45c0de7f5e80008b82005/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ",ABC News Australia 
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA" tvg-chno="620", VH1 Classics
 https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
