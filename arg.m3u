@@ -2317,9 +2317,6 @@ https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", CHILECITO TV LA RIOJA
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/07/18-platea-vip-800x450.jpg" group-title="LA RIOJA", Canal 11 Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 
