@@ -98,12 +98,12 @@ https://cdn2.videok.pro/hls3/01/00000/,sizyr4qxlhrf_l,sizyr4qxlhrf_n,sizyr4qxlhr
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="local", canal 2 toninas
+#EXTINF:0 tvg-id="ext" group-title="local", canal 99 miramar
+https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
 
 
-https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYwNDQ4MDM0Iiwic2lwIjoiMTg2LjEzLjIwOC4xMDUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU29tb3NfRWxfVmFsbGUvU0FfTGl2ZV9kYXNoX2VuY18yQV93bC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVhYjk3NzM2Y2E4YWNiNDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjk3Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.CEmW4X4jAQl1Vr3HNz0S2K90yHX8W9bq4lsG3yn8fdvDrU6vXsIu1pE2pV93W_K2c17YtUCzLiPe0RuO49PwOQ==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_2A_wl/Somos_El_Valle.mpd
-
-
+#EXTINF:0 tvg-id="ext" group-title="local", next san rafael
+https://mediastore02.playme.com.ar/dash/CH_NEXT/playlist.mpd
 
 
 
