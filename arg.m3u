@@ -1361,13 +1361,10 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/YrDl0RVPWQc5PZGq/125801975_1320600858279322_4096123764503234899_n-YNqoEV98RKiqW87K.jpg" group-title="AMBA", Urbana TeVe 32.2
 https://nd106.republicaservers.com/hls/c7812/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="AMBA", SOMOS AMBA
-http://181.209.125.237:9000/play/a05v/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCJtgn9fZJ_NMqXU3XTg5bjouqriBfsR5rVSSHAGnR-dJWGhyMAFKvS4OPVZUiYSb3qI&usqp=CAU" group-title="AMBA", Bayres TV 41.1
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="AMBA", Bayres TV 41.1
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
