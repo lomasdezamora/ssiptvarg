@@ -4643,8 +4643,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u
 #EXTINF:-1 tvg-id="66c45c0de7f5e80008b82005" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="602", CNN Headlines
 https://stitcher.pluto.tv/stitch/hls/channel/66c45c0de7f5e80008b82005/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
 
-#EXTINF:-1 tvg-id="6231ede1be5b460007f91bc1" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="603", CBS News 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" ",ABC News Australia 
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA" tvg-chno="620", VH1 Classics
 https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
@@ -4703,7 +4703,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf96c0222df39f1a338d163/master.m3u
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" tvg-name="TuWarner" tvg-logo="https://images.pluto.tv/channels/6732497f3a61d400087a53b0/colorLogoPNG.png" group-title="ENTRETENIMIENTO" tvg-chno="4235", TuWarner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a414264a-9c45-11f0-9bd9-c2d28ebbc8c3
 
-#EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="4245", CBS en español
+#EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="SERIES" tvg-chno="4245", CBS en español
 https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a414264a-9c45-11f0-9bd9-c2d28ebbc8c3
 
 #EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-name="CSI en Español" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="SERIES" tvg-chno="4250", CSI en Español
