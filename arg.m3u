@@ -1565,9 +1565,6 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT2/C8MPD/output.mpd
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="PCIA BS AS", POWER HD PINAMAR
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.faep6-1.fna.fbcdn.net/v/t39.30808-6/490703890_724410553452077_4961077426471329158_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGn6Miws6LyOYYYYwLL3RgG19dvRm27s9fX129Gbbuz10Ofoo4nDThGB-DGCtH2DWc&_nc_ohc=7NrbvhoDCCkQ7kNvwFPs8AV&_nc_oc=AdlquDme0xHK3PELLaah7o-9pYLObdIeHjbHPhEA0v_tLdVJG1rMnfRiwWWMLmzBFTidEvruWJbE-v3O04A4RMvS&_nc_zt=23&_nc_ht=scontent.faep6-1.fna&_nc_gid=-cvSOLd_J1jmjQKq82AixQ&oh=00_AfZokBodPucQePz6yFvT3hbJ0J6cFnEoMKAxyz64YCeBTQ&oe=68D4D986" group-title="PCIA BS AS", MAS POSITIVO HD PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
@@ -1618,6 +1615,9 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT3/C4PD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZT5_deBcKFEVXumsHy5NxJYT6K54jrA0v86bWHpQ9lw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="PCIA BS AS", EPS TV BRAGADO
 https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=31" group-title="PCIA BS AS", BRAGADO TV
+https://cp.panelchs.com:1936/8206/ngrp:8206_all/chunklist_w1270737246_b1596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalinmobiliario.tv/wp-content/uploads/2022/07/LOGO-Canal-Inmobiliario-1536x864.png" group-title="PCIA BS AS", CANAL INMOBILIARIO TV
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
@@ -1628,16 +1628,7 @@ https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZzyhYcKJ_HJMfj839pObfH3Th3ux54tD_BM2VrY3inP8FbcqaPRXc-HjMORn15LrMfs=w600-h300-pc0xffffff-pd" group-title="PCIA BS AS", CANAL 15 DE CAMPANA
 https://play.nexolife.com/canal15/d00176a72283b80d5c8fd05a62c3cbf1.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="PCIA BS AS", SPTV Digital
-https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1063837924259713026/BoBILHLP_400x400.jpg" group-title="PCIA BS AS", BOLIVAR TV
-https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/22-800x450.jpg" group-title="PCIA BS AS", B.T.V. DIGITAL
-https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" group-title="PCIA BS AS", SEÑAL URBANA
+ #EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" group-title="PCIA BS AS", SEÑAL URBANA
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal2coronelpringles.com.ar/wp-content/uploads/2019/08/Canal-2_v2-2.png" group-title="PCIA BS AS", CANAL 2 CORONEL PRINGLES
@@ -1653,7 +1644,7 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/08/38-estercita-420x315.jpg" group-title="PCIA BS AS", Estercita TV
-https://stmv7.voxtvhd.com.br/estercitatv/estercitatv/playlist.m3u8?hls_ctx=n5656de9
+https://stmv7.voxtvhd.com.br/estercitatv/estercitatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
@@ -1679,7 +1670,8 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO-PCIA BS AS", POWER HD PINAMAR
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO-PCIA BS AS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8  
