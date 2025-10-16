@@ -4715,7 +4715,7 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
-https://streamconex.com:19360/lacosta/lacosta.m3u8
+https://streamconex.com:19360/lacosta/lacosta.m3u8  
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
 https://streamconex.com:19360/puan/puan.m3u8
