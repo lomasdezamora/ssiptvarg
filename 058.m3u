@@ -1,5 +1,8 @@
 #EXTM3U   
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
+http://201.217.247.165:8000/play/a0ec/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 26X01
 https://cdn1.videok.pro/hls3/01/00000/,u8glmu3d2a9v_l,u8glmu3d2a9v_n,u8glmu3d2a9v_h,u8glmu3d2a9v_x,lang/cat/u8glmu3d2a9v_cat,lang/eng/u8glmu3d2a9v_eng,lang/spa/u8glmu3d2a9v_spa,.urlset/index-f2-v1-a1.m3u8
