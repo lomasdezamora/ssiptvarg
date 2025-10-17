@@ -17,8 +17,8 @@ https://broker.cdn.rcs.net.ar/mnp/americahls/playlist.m3u8
 #EXTINF:-1 group-title="prueba", fx
 https://broker.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="prueba", canal de la ciudad
-https://broker.cdn.rcs.net.ar/hub/canaldelaciudad/stream_0.m3u8
+#EXTINF:-1 group-title="prueba", star
+https://broker.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 
 #EXTINF:-1 group-title="LATINO",A&E HD
