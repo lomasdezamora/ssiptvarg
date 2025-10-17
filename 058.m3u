@@ -17,6 +17,9 @@ https://broker.cdn.rcs.net.ar/mnp/americahls/playlist.m3u8
 #EXTINF:-1 group-title="prueba", fx
 https://broker.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
+#EXTINF:-1 group-title="prueba", canal de la ciudad
+https://broker.cdn.rcs.net.ar/hub/canaldelaciudad/stream_0.m3u8
+
 
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
