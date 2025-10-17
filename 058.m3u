@@ -5,11 +5,13 @@
 https://mediastore01.playme.com.ar/dash/CH_NETTV/playlist.mpd
 
 #EXTINF:-1 group-title="prueba", tn
-https://mediastore02.playme.com.ar/dash/CH_TN/playlist.mpd
+https://mediastore01.playme.com.ar/dash/CH_TN/playlist.mpd
 
 
 #EXTINF:-1 group-title="prueba", america
-https://mediastore02.playme.com.ar/dash/CH_AMERICA24/playlist.mpd
+https://mediastore01.playme.com.ar/dash/CH_AMERICA24/playlist.mpd
+#EXTINF:-1 group-title="prueba", unife
+https://mediastore01.playme.com.ar/dash/CH_UNIFE/playlist.mpd
 
 
 
