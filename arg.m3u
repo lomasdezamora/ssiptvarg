@@ -168,9 +168,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
 http://138.121.114.86:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="NACIONALES", LOS SIMPSONS
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
 http://201.217.246.177:8000/play/a024/index.m3u8
 
@@ -840,7 +837,6 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1200px-Billboard_logo.svg.png" group-title="MUSICA", BILLBOARD TV
 https://smt-usr-edge01.sensa.com.ar/output/SMT1/BLBD/output.mpd
@@ -1865,6 +1861,9 @@ https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CORDOBA", CADENA 3
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f33e33-1e65-49ea-adc7-fc8531bfdc54-profile_image-150x150.png" group-title="CORDOBA", TELEDIARIO
+https://broker.cdn.rcs.net.ar/mnp/imperio/output.mpd
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://radiosargentina.com.ar/png/VICANALU.png" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/chunklist_w1872889393.m3u8
