@@ -14,6 +14,11 @@ http://181.78.27.128:12543/play/a055/index.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
+https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd
+
+
+
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="LATINO",AMC HD
