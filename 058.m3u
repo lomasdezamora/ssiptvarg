@@ -3,8 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="NOTICIAS NACIONALES", IP NOTICIAS
 http://181.78.27.128:12543/play/a055/index.m3u8
-
-
+#EXTINF:-1 group-title="prueba",kzo
+https://mediastore02.playme.com.ar/dash/CH_RADIO_KZO/playlist.mpd
 
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
