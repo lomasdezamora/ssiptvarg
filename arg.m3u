@@ -235,6 +235,9 @@ http://201.217.246.177:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
+https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://200.106.13.204:8000/play/a0ek/index.m3u8
 
@@ -265,7 +268,7 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-http://181.78.27.128:12543/play/a055/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26
 http://45.5.151.62:8000/play/a028/index.m3u8
@@ -306,8 +309,12 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f33e33-1e65-49ea-adc7-fc8531bfdc54-profile_image-150x150.png" group-title="NOTICIAS NACIONALES", TELEDIARIO
+https://broker.cdn.rcs.net.ar/mnp/imperio/output.mpd
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
 https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
+
 
 
 #EXTINF:-1 group-title="LATINO",01.5AmericaTV  
