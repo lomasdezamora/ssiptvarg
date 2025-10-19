@@ -17,6 +17,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
 https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
+
+https://apps.playme.com.ar/dash/CH_RADIO_REC/playlist.mpd
+
 
 
 #EXTINF:-1 group-title="LATINO",A&E HD
