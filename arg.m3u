@@ -2829,6 +2829,9 @@ https://inliveserver.com:1936/12038/12038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TVES.png" group-title="SANTA FE", TVES SJ DE LA ESQUINA
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
+#EXTINF:-1 tvg-logo="https://claroproducciones.com.ar/03-2023/9ebe58c5031c8362afcf80a197c95e7b.jpg" group-title="SANTA FE", CLARO DE LUNA TV SANTA FE
+https://nd106.republicaservers.com:4433/hls/c7738/index.m3u8
+
 
 
 
