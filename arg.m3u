@@ -307,7 +307,7 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f33e33-1e65-49ea-adc7-fc8531bfdc54-profile_image-150x150.png" group-title="NOTICIAS NACIONALES", TELEDIARIO
-https://broker.cdn.rcs.net.ar/mnp/imperio/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/imperio/output.mpd 
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
 https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
