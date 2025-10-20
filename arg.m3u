@@ -2325,6 +2325,9 @@ https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8   
 
+#EXTINF:-1 tvg-logo="https://fmfiesta.com.ar/wp-content/uploads/2024/03/WhatsApp-Image-2019-03-01-at-21.10.08.jpeg" group-title="LA RIOJA", FM FIESTA 99.3 LA RIOJA
+https://stmv5.livecastv.com/fmfiesta/fmfiesta/playlist.m3u8
+
 
 
 
