@@ -1,28 +1,6 @@
 #EXTM3U   
 
 
-#EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-http://181.78.27.128:12543/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWNd81Yx/Encuentro.png" group-title="TV",Encuentro
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
-#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
-https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
-https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
-
-https://apps.playme.com.ar/dash/CH_RADIO_REC/playlist.mpd
-
-
-
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="LATINO",AMC HD
