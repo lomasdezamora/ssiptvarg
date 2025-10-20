@@ -2319,8 +2319,11 @@ https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://diariochilecito.com/wp-content/uploads/2022/10/DiarioChilecito-com.png" group-title="LA RIOJA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
+#EXTINF:-1 tvg-logo="https://canal5tvchepes.com.ar/wp-content/uploads/2022/08/logo-canal.png" group-title="LA RIOJA", TEVE 5 CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/07/18-platea-vip-800x450.jpg" group-title="LA RIOJA", Canal 11 Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
