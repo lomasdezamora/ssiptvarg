@@ -2911,6 +2911,9 @@ https://videohd.live:19360/8098/8098.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh16hSKsbo73YHQMTouLYIsgjFGZKbqg55iDQ1-ukdlTuawW6R_Flu5eq-kJRensTZ3M5c7gLnc4KbcFZRV6hiUwobW5M0veCbxrUWumRu8H9Dh8aEzjRlncomFXH8KOKDHz2Ccd1m_gWzlAK8OUKDLchOTUfSrBYDaeOtMEPR9lxaDqm1pQo_3dpzZZZA/s200-rw/LOGO-PLAYME-TV-1-e1746724625651-150x150.png" group-title="RADIO - SANTA FE", Radio Vector 98.7 FM Rafaela
 https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="RADIO - SANTA FE", Uruguay 87.9 fm Rosario
+https://nd106.republicaservers.com:4433/hls/c7753/index.m3u8
+
 
 
 
