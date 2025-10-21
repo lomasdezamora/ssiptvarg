@@ -24,13 +24,13 @@ http://201.217.246.177:8000/play/a05b/index.m3u8
 http://201.217.246.177:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="Tango Sports", ESPN 5
-http://181.176.155.7:8090/play/a1e8/index.m3u8
+http://190.108.89.228:8000/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="Tango Sports", ESPN 6
-http://181.176.155.7:8090/play/a1kj/index.m3u8
+http://190.108.89.228:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Tango Sports", ESPN 7
-http://38.56.113.170:8000/play/a01t/index.m3u8
+http://190.108.89.228:8000/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Tango Sports", FOX Sports
 http://201.217.246.177:8000/play/a07j/index.m3u8
@@ -57,7 +57,7 @@ http://172.93.102.112:8989/279390_.m3u8
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://138.99.179.229:8000/play/a0se/index.m3u8
+http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
