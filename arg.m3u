@@ -2215,7 +2215,7 @@ https://cs1.xcast.com.br/8884/8884/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/978088312429858816/5QYhbEew_400x400.jpg" group-title="FORMOSA", LAPACHO TV FORMOSA
-http://181.209.95.29:8000/play/a0ar/index.m3u8
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="FORMOSA", CANAL 3 FORMOSA
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
