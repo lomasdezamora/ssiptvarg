@@ -2158,6 +2158,9 @@ https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://desdeentrerios.com.ar/_next/image?url=%2Fimages%2Fcanal6-banner-tv.jpg&w=3840&q=75" group-title="ENTRE RIOS", CANAL 6 CRESPO ERTV
 http://190.7.19.197:232/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://remansotv.ar/wp-content/uploads/2022/10/logo-remansotv.png" group-title="ENTRE RIOS", REMANSO TV
+http://190.7.19.197:232/play/a003/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
