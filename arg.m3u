@@ -659,7 +659,7 @@ http://200.60.124.19:29000/play/a0jc/index.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", France 24 ESPAÑOL
-http://200.229.147.210:8000/play/a039/index.m3u8
+http://190.102.123.28:8097/play/a0dh/index.m3u8
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -686,7 +686,7 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 http://45.232.176.29:8000/play/a05i
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", ABC PARAGUAY
-https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/GQagSggs/live.isml/.mpd
+https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="NOTICIAS INTERNACIONAL", HISPAN TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
