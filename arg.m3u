@@ -2439,10 +2439,10 @@ https://panel.host-live.com:19360/8104-1/8104-1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radioestacionazul.com/wp-content/uploads/2019/12/cropped-AZUL.png?fit=273%2C72&ssl=1" group-title="MISIONES", RADIO ESTACION AZUL 106.9 MISIONES
 https://iptv.ixfo.com.ar:30443/live/EstacionAzulTv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediavox.com.ar/img/logo_1647309398.png" group-title="MISIONES", RADIO VOX 25 DE MAYO
+#EXTINF:-1 tvg-logo="https://mediavox.com.ar/images/logo/logo_1757366564.png" group-title="MISIONES", RADIO VOX 25 DE MAYO
 https://inliveserver.com:1936/17004/17004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3UhY2THJQDscaI5o82B-0E-WM9UHlQETaYz_HHjudcUnIgUYKOkQLIq8xNOtiO2oyo89vAxq=s176-c-k-c0x00ffffff-no-rj" group-title="MISIONES", RADIO FOLK 91.9 FM
+#EXTINF:-1 tvg-logo="https://fmfolk.com.ar/wp-content/uploads/2024/02/cropped-logo-1-80x75.png" group-title="MISIONES", RADIO FOLK 91.9 FM
 https://inliveserver.com:1936/9004/9004/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://radioiguazu.com/wp-content/uploads/2024/07/radio-yguazu-julio-2024.png" group-title="MISIONES", Radio Yguazu TV
