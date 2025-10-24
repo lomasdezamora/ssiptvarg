@@ -2951,8 +2951,8 @@ https://inliveserver.com:1936/9030/9030/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.canal5tucuman.com.ar/img/BANNER.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
+https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096" group-title="TUCUMAN", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
