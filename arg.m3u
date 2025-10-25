@@ -2909,6 +2909,9 @@ https://stmv7.voxtvhd.com.br/elsignofish/elsignofish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmwinner.com.ar/wp-content/uploads/2024/04/logo300.png" group-title="RADIO - SANTA FE", FM Estación Winner 101.1 FM Rosario
 https://stmv2.voxtvhd.com.br/fmestwinner/fmestwinner/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://solumedia.com.ar/radios/8390/v2/img/logo.jpg" group-title="RADIO - SANTA FE", Pop 96.1 FM Rosario 
+https://vivo.solumedia.com:19360/canal3/canal3.m3u8
+
 
 
 
