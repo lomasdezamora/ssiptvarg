@@ -2732,6 +2732,9 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://elcaletenseradio.com.ar/03-2022/b95960a8fd16b1e030f73162697125a7.jpg" group-title="SANTA CRUZ", El Caletense 98.5 FM  Caleta Olivia
 https://nd106.republicaservers.com:4433/hls/elcaletense/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="SANTA CRUZ", Mediatica 98.9 FM Rio Gallegos
+https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
+
 
 
 
