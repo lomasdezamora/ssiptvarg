@@ -1555,6 +1555,9 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288596112761397249/EQcy0Iho.jpg" group-title="PCIA BS AS", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TV2BA.png" group-title="PCIA BS AS", CANAL 2 BALCARCE
 https://videohd.live:19360/8064/8064.m3u8
 
@@ -2980,6 +2983,9 @@ https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/40.jpg" group-title="TUCUMAN", SOLIVE TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TUCUMAN", CANAL TUCUMAN TV
+https://live-stream.iblups.com/video/6c3d4b49124743023c3e123612224a8179016d3e.m3u8
 
 
 
