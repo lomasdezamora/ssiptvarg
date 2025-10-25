@@ -2519,7 +2519,7 @@ https://inliveserver.com:1936/12034/12034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILID897.png" group-title="NEUQUEN", Lider 89.7 FM Caviahue
 https://inliveserver.com:1936/12020/12020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEUQUEN", RADIO MAS WEB
+#EXTINF:-1 tvg-logo="https://www.rmw.com.ar/img/logo_1742333755.png" group-title="NEUQUEN", RADIO MAS WEB
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.capital885.com.ar/wp-content/uploads/2023/06/logo-1.png" group-title="NEUQUEN", Capital 88.5 FM Neuquén
