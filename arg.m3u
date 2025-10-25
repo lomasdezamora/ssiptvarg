@@ -2904,6 +2904,10 @@ https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
 https://nd106.republicaservers.com:4433/hls/c7753/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.elsignofisherton.com/img/logo_1759069189.png" group-title="RADIO - SANTA FE", El Signo Fisherton 106.5 FM Santa FE
+https://stmv7.voxtvhd.com.br/elsignofish/elsignofish/playlist.m3u8
+
+
 
 
 
