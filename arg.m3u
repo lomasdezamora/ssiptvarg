@@ -2903,13 +2903,11 @@ https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
 #EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="RADIO - SANTA FE", Uruguay 87.9 fm Rosario
 https://nd106.republicaservers.com:4433/hls/c7753/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.elsignofisherton.com/img/logo_1759069189.png" group-title="RADIO - SANTA FE", El Signo Fisherton 106.5 FM Santa FE
 https://stmv7.voxtvhd.com.br/elsignofish/elsignofish/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://fmwinner.com.ar/wp-content/uploads/2024/04/logo300.png" group-title="RADIO - SANTA FE", FM Estación Winner 101.1 FM Rosario
+https://stmv2.voxtvhd.com.br/fmestwinner/fmestwinner/playlist.m3u8
 
 
 
