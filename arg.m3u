@@ -2538,11 +2538,8 @@ https://live.capital885.com.ar/fmcapital/885/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s160-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+#EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
 https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w2114051191_b921072_tkd293emF0b2tlbmVuZHRpbWU9MTc2MTQzNzU4MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9Ymt5OFNLN09HdXFzWUUzYUZaUzBmUXhRNEdZSElVTEtBWW1JTkdNWlE0OD0=.m3u8
-
-#EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL  
-https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="RIO NEGRO", Coopetel TV - El Bolsón   
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
