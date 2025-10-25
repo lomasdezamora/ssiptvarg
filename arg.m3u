@@ -1880,6 +1880,9 @@ http://190.123.90.146:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/10/39-canal-5-pilar-800x450.jpg" group-title="CORDOBA", CANAL 5 PILAR
+https://stmv6.voxtvhd.com.br/canal5pilar/canal5pilar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="CORDOBA", COOP CAROYA
 https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
