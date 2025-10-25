@@ -271,7 +271,7 @@ http://45.5.150.5:9000/play/a0kn/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26
 http://45.5.151.62:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxY8DBowzBJ2C7HFrjZpjVZzHXq1hy0oL5vA&s" group-title="NOTICIAS NACIONALES", CRONICA HD 
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar@SD" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="NOTICIAS NACIONALES", A24
