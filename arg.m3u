@@ -274,10 +274,8 @@ http://45.5.151.62:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxY8DBowzBJ2C7HFrjZpjVZzHXq1hy0oL5vA&s" group-title="NOTICIAS NACIONALES", CRONICA HD 
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar@SD" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="NOTICIAS NACIONALES", A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Safari móvil/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-cotvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/258px-A24-logo.svg.png" group-title="NOTICIAS NACIONALES", A24
+http://200.80.230.125:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
 http://190.104.67.230:234/play/a097/index.m3u8
