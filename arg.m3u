@@ -151,6 +151,9 @@ https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B3H8vfrbLNJxxqvuUQlNEKkNjKDe7ezODA&s" group-title="NACIONALES", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="NACIONALES", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://200.219.40.1:8000/play/a01m/index.m3u8
 
@@ -232,9 +235,6 @@ http://201.217.246.177:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
-https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://200.106.13.204:8000/play/a0ek/index.m3u8
