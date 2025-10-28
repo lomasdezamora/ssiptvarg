@@ -1433,7 +1433,7 @@ https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiogquilmes.com.ar/img/portada24.png" group-title="RADIO-AMBA", RADIO G QUILMES
 https://inliveserver.com:1936/9000/9000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="RADIO-AMBA", TRADICIONAL AM 1340 
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/89/51/8951d2deb1d05c07e17296d9e64a4b6b.png" group-title="RADIO-AMBA", TRADICIONAL AM 1340 
 https://tv.streamcasthd.com:3338/live/radiotradicional1340live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO-AMBA", FM OK 105.7 FLORENCIO VARELA
