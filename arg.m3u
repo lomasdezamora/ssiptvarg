@@ -696,6 +696,9 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", CGTN ESPAÑOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="NOTICIAS INTERNACIONAL", NHK
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Ukraine 24 Ucrania
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 
@@ -4581,9 +4584,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u
 
 #EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-name="Actualidad 360" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="600", Actualidad 360
 https://stitcher.pluto.tv/stitch/hls/channel/67517fae5534bb0008187997/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
-
-#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="601", Euronews
-https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
 
 #EXTINF:-1 tvg-id="66c45c0de7f5e80008b82005" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png" group-title="NOTICIAS INTERNACIONAL" tvg-chno="602", CNN Headlines
 https://stitcher.pluto.tv/stitch/hls/channel/66c45c0de7f5e80008b82005/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
