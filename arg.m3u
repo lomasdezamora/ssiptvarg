@@ -1520,7 +1520,9 @@ http://157.100.9.51:8000/play/a0ep
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="TELECENTRO", ORBE 21 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELECENTRO", gigared
 
+https://cdn02.gigared.com.ar/live/eds/Canal_Local_Gigared_Posadas/sa_live_dash/Canal_Local_Gigared_Posadas.mpd
 
 
 
@@ -3270,7 +3272,8 @@ https://live-stream.iblups.com/video/6c3d4b49124743023c3e123612224a8179016d3e.m3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/250px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URUGUAY", Canal 10
-http://liketv.pro:80/User1626/28TM4MEU66/187879.ts
+https://val03.ride.com.ar/tvmia/bn15/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logotipo_de_Teledoce_Uruguay_08012013_085909_p.m.jpg" group-title="URUGUAY", Teledoce
 http://liketv.pro:80/User1626/28TM4MEU66/187880.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", Canal 4
