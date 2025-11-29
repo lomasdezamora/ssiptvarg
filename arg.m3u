@@ -110,7 +110,7 @@ http://186.125.218.189:13000/play/a05v/index.m3u8
 http://186.125.218.189:13000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-http://190.104.67.112:234/play/a086/index.m3u8
+http://190.104.67.112:234/play/a086/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
 http://190.104.67.112:234/play/a06z/index.m3u8
