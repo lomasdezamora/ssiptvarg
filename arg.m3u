@@ -2538,6 +2538,9 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/653/png-transparent-channel-4-jujuy-television-channel-m3u-http-live-streaming-others-television-m3u-symbol.png" group-title="JUJUY", CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/653/png-transparent-channel-4-jujuy-television-channel-m3u-http-live-streaming-others-television-m3u-symbol.png" group-title="JUJUY", CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live10/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canal6lq.com/wp-content/uploads/2022/08/logo-letra-blanca.png" group-title="JUJUY", CANAL 6 DE LA QUIACA
 https://stream.arcast.com.ar/c6laquiaca/ngrp:c6laquiaca_all/playlist.m3u8
 
