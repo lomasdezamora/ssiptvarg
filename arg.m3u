@@ -3105,8 +3105,8 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 #EXTINF:-1 tvg-logo="https://claroproducciones.com.ar/03-2023/9ebe58c5031c8362afcf80a197c95e7b.jpg" group-title="SANTA FE", CLARO DE LUNA TV SANTA FE
 https://nd106.republicaservers.com:4433/hls/c7738/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.funescoop.com.ar/image/catalog/fullvision-2.png" group-title="SANTA FE", Funes Fullvision
+https://smt-usr-edge02.sensa.com.ar/output/SMT2/FVD/output.mpd
 
 
 
