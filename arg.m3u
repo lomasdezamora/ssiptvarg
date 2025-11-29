@@ -2819,6 +2819,9 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="RIO NEGRO", Coopetel TV - El Bolsón   
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4-7XDYAh2ImpJ96K9Tt4FROBLAtod49dPA&s" group-title="RIO NEGRO", ABTV 
+https://videostream.shockmedia.com.ar:19360/abtvbariloche/abtvbariloche.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiolapuntual.com.ar/images/logo.png" group-title="RIO NEGRO", La Puntual 97.1 FM Viedma
 https://inliveserver.com:1936/12018/12018/playlist.m3u8
 
