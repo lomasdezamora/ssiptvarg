@@ -2807,11 +2807,11 @@ https://live.capital885.com.ar/fmcapital/885/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/El_Seis_TV_2021.png/250px-El_Seis_TV_2021.png" group-title="RIO NEGRO", El Seis - Bariloche  
+https://smt-usr-edge02.sensa.com.ar/output/SMT4/BC6H/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
-https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w2114051191_b921072_tkd293emF0b2tlbmVuZHRpbWU9MTc2MTQzNzU4MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9Ymt5OFNLN09HdXFzWUUzYUZaUzBmUXhRNEdZSElVTEtBWW1JTkdNWlE0OD0=.m3u8
+https://smt-usr-edge02.sensa.com.ar/output/SMT2/C10RND/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="RIO NEGRO", Coopetel TV - El Bolsón   
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
